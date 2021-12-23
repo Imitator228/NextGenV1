@@ -2,3 +2,4 @@
 Полезные вещи для учебы и исследования
 https://www.deepl.com/translator хороший переводчик
 https://www.bookdepository.com/ книги
+https://sciarium.com/files/science/informatics/ книги и исследования
